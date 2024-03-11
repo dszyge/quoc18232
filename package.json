@@ -1,0 +1,9 @@
+{
+  "name": "@gauminhduc/quoc18232",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@gauminhduc",
+  "repository": "https://github.com/dszyge/quoc18232.git",
+  "license": "ISC"
+}
